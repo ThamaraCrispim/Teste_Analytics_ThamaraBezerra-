@@ -24,7 +24,7 @@ O projeto consiste na simulação, limpeza, análise exploratória e consultas S
 - 200 registros de vendas
 - Período: 01/01/2023 a 31/12/2023
 - Variáveis:
-  - ID
+  -ID
   - Data
   - Produto
   - Categoria
