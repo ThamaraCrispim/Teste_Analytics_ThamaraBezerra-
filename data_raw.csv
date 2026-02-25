@@ -1,1 +1,201 @@
-
+ID,Data,Produto,Categoria,Quantidade,Preço
+1,2023-01-13,Tijolo Cerâmico,Estrutural,22.0,573.47
+2,2023-02-14,Trena,Ferramentas,,32.66
+3,2023-11-05,Trena,Ferramentas,1.0,36.84
+4,2023-04-23,Furadeira,Ferramentas,4.0,
+5,2023-12-24,Areia Ensacada,Estrutural,32.0,103.82
+6,2023-02-22,Rejunte,Acabamento,5.0,24.5
+7,2023-01-23,Piso Cerâmico,Acabamento,17.0,92.17
+8,2023-05-31,Trena,Ferramentas,5.0,46.56
+9,2023-01-24,Tijolo Cerâmico,Estrutural,47.0,568.37
+10,2023-02-21,Tinta Acrílica,Acabamento,15.0,156.14
+11,2023-07-01,Rejunte,Acabamento,9.0,31.75
+12,2023-11-08,Tijolo Cerâmico,Estrutural,45.0,551.34
+13,2023-05-19,Furadeira,Ferramentas,5.0,326.87
+14,2023-04-28,Cimento CP-II,Estrutural,7.0,42.08
+15,2023-04-19,Rejunte,Acabamento,18.0,24.89
+16,2023-03-13,Piso Cerâmico,Acabamento,10.0,104.7
+17,2023-10-26,Furadeira,Ferramentas,4.0,376.7
+18,2023-02-16,Martelo,Ferramentas,1.0,55.14
+19,2023-11-02,Furadeira,Ferramentas,1.0,384.67
+20,2023-10-11,Piso Cerâmico,Acabamento,3.0,100.82
+21,2023-11-25,Piso Cerâmico,Acabamento,13.0,66.69
+22,2023-09-14,Piso Cerâmico,Acabamento,8.0,90.46
+23,2023-11-08,Trena,Ferramentas,2.0,24.59
+24,2023-01-01,Trena,Ferramentas,,29.72
+25,2023-05-03,Piso Cerâmico,Acabamento,4.0,74.45
+26,2023-02-05,Martelo,Ferramentas,5.0,51.8
+27,2023-03-26,Trena,Ferramentas,3.0,35.83
+28,2023-12-20,Trena,Ferramentas,2.0,41.39
+29,2023-08-13,Rejunte,Acabamento,19.0,26.29
+30,2023-10-29,Cimento CP-II,Estrutural,40.0,33.45
+31,2023-04-28,Cimento CP-II,Estrutural,9.0,43.58
+32,2023-05-23,Tinta Acrílica,Acabamento,18.0,147.85
+33,2023-05-05,Martelo,Ferramentas,4.0,53.26
+34,2023-07-01,Furadeira,Ferramentas,4.0,393.89
+35,2023-02-01,Tijolo Cerâmico,Estrutural,30.0,718.46
+36,2023-04-08,Tinta Acrílica,Acabamento,20.0,178.32
+37,2023-02-08,Tinta Acrílica,Acabamento,17.0,225.04
+38,2023-01-08,Trena,Ferramentas,1.0,47.79
+39,2023-09-04,Martelo,Ferramentas,2.0,55.26
+40,2023-07-19,Cimento CP-II,Estrutural,21.0,43.9
+41,2023-12-05,Trena,Ferramentas,4.0,24.64
+42,2023-02-01,Trena,Ferramentas,3.0,21.71
+43,2023-03-22,Trena,Ferramentas,1.0,48.82
+44,2023-12-12,Tijolo Cerâmico,Estrutural,20.0,621.13
+45,2023-11-14,Cimento CP-II,Estrutural,10.0,36.29
+46,2023-04-15,Piso Cerâmico,Acabamento,13.0,74.32
+47,2023-08-23,Piso Cerâmico,Acabamento,13.0,
+48,2023-02-07,Tijolo Cerâmico,Estrutural,39.0,563.95
+49,2023-05-06,Tijolo Cerâmico,Estrutural,28.0,585.5
+50,2023-11-10,Piso Cerâmico,Acabamento,19.0,60.47
+51,2023-03-10,Tijolo Cerâmico,Estrutural,21.0,534.63
+52,2023-05-25,Piso Cerâmico,Acabamento,9.0,103.06
+53,2023-09-16,Piso Cerâmico,Acabamento,18.0,75.07
+54,2023-05-22,Furadeira,Ferramentas,1.0,251.24
+55,2023-03-24,Piso Cerâmico,Acabamento,17.0,
+56,2023-12-20,Tijolo Cerâmico,Estrutural,14.0,663.68
+57,2023-08-09,Areia Ensacada,Estrutural,13.0,82.93
+58,2023-07-03,Cimento CP-II,Estrutural,18.0,40.23
+59,2023-07-28,Trena,Ferramentas,5.0,42.48
+60,2023-04-01,Areia Ensacada,Estrutural,31.0,81.74
+61,2023-12-09,Furadeira,Ferramentas,2.0,343.38
+62,2023-08-29,Cimento CP-II,Estrutural,19.0,32.99
+63,2023-04-25,Tinta Acrílica,Acabamento,3.0,205.8
+64,2023-05-23,Tijolo Cerâmico,Estrutural,27.0,692.44
+65,2023-06-19,Trena,Ferramentas,1.0,23.46
+66,2023-01-20,Piso Cerâmico,Acabamento,6.0,95.79
+67,2023-11-07,Furadeira,Ferramentas,5.0,290.48
+68,2023-12-29,Cimento CP-II,Estrutural,32.0,30.03
+69,2023-07-06,Tinta Acrílica,Acabamento,16.0,129.1
+70,2023-12-06,Rejunte,Acabamento,6.0,32.99
+71,2023-06-17,Furadeira,Ferramentas,4.0,494.02
+72,2023-12-13,Furadeira,Ferramentas,2.0,465.43
+73,2023-06-05,Cimento CP-II,Estrutural,23.0,33.15
+74,2023-08-27,Rejunte,Acabamento,17.0,26.05
+75,2023-12-04,Areia Ensacada,Estrutural,10.0,99.87
+76,2023-05-01,Tijolo Cerâmico,Estrutural,48.0,593.13
+77,2023-05-06,Cimento CP-II,Estrutural,35.0,39.17
+78,2023-12-23,Tinta Acrílica,Acabamento,15.0,184.27
+79,2023-02-24,Cimento CP-II,Estrutural,32.0,33.28
+80,2023-01-26,Martelo,Ferramentas,5.0,33.72
+81,2023-12-08,Martelo,Ferramentas,5.0,59.58
+82,2023-11-10,Martelo,Ferramentas,5.0,39.94
+83,2023-09-01,Areia Ensacada,Estrutural,33.0,98.14
+84,2023-09-06,Trena,Ferramentas,2.0,28.24
+85,2023-06-21,Piso Cerâmico,Acabamento,13.0,113.58
+86,2023-12-22,Furadeira,Ferramentas,2.0,497.25
+87,2023-08-27,Trena,Ferramentas,4.0,21.87
+88,2023-10-22,Cimento CP-II,Estrutural,29.0,37.15
+89,2023-08-03,Furadeira,Ferramentas,5.0,511.63
+90,2023-09-07,Tinta Acrílica,Acabamento,10.0,155.48
+91,2023-03-26,Furadeira,Ferramentas,4.0,571.84
+92,2023-10-31,Furadeira,Ferramentas,5.0,482.05
+93,2023-04-04,Martelo,Ferramentas,1.0,34.11
+94,2023-07-14,Rejunte,Acabamento,11.0,33.8
+95,2023-08-29,Tijolo Cerâmico,Estrutural,6.0,724.71
+96,2023-11-29,Tinta Acrílica,Acabamento,5.0,221.56
+97,2023-04-13,Tinta Acrílica,Acabamento,3.0,200.77
+98,2023-10-16,Tijolo Cerâmico,Estrutural,18.0,639.51
+99,2023-03-25,Tijolo Cerâmico,Estrutural,,532.43
+100,2023-07-23,Furadeira,Ferramentas,2.0,276.6
+101,2023-12-23,Tijolo Cerâmico,Estrutural,24.0,755.09
+102,2023-06-27,Cimento CP-II,Estrutural,39.0,36.43
+103,2023-01-07,Rejunte,Acabamento,16.0,35.56
+104,2023-12-29,Martelo,Ferramentas,2.0,40.24
+105,2023-11-12,Piso Cerâmico,Acabamento,20.0,106.48
+106,2023-06-15,Piso Cerâmico,Acabamento,10.0,109.84
+107,2023-08-26,Tinta Acrílica,Acabamento,15.0,163.73
+108,2023-04-19,Martelo,Ferramentas,3.0,52.92
+109,2023-10-12,Piso Cerâmico,Acabamento,3.0,91.0
+110,2023-09-08,Furadeira,Ferramentas,5.0,515.36
+111,2023-08-18,Martelo,Ferramentas,1.0,28.26
+112,2023-12-06,Piso Cerâmico,Acabamento,14.0,88.4
+113,2023-06-19,Trena,Ferramentas,3.0,41.09
+114,2023-04-09,Tijolo Cerâmico,Estrutural,25.0,535.87
+115,2023-04-09,Areia Ensacada,Estrutural,18.0,131.7
+116,2023-11-02,Trena,Ferramentas,3.0,49.42
+117,2023-04-02,Rejunte,Acabamento,12.0,15.35
+118,2023-10-11,Cimento CP-II,Estrutural,23.0,40.46
+119,2023-02-22,Martelo,Ferramentas,1.0,45.09
+120,2023-01-27,Areia Ensacada,Estrutural,21.0,145.87
+121,2023-09-09,Furadeira,Ferramentas,1.0,451.96
+122,2023-02-13,Piso Cerâmico,Acabamento,10.0,67.11
+123,2023-09-25,Tinta Acrílica,Acabamento,15.0,178.57
+124,2023-06-06,Furadeira,Ferramentas,5.0,467.36
+125,2023-11-17,Tinta Acrílica,Acabamento,9.0,154.4
+126,2023-02-08,Trena,Ferramentas,2.0,20.08
+127,2023-01-17,Piso Cerâmico,Acabamento,10.0,77.29
+128,2023-12-18,Tijolo Cerâmico,Estrutural,19.0,777.17
+129,2023-08-06,Tinta Acrílica,Acabamento,6.0,190.79
+130,2023-02-06,Areia Ensacada,Estrutural,8.0,91.61
+131,2023-08-13,Piso Cerâmico,Acabamento,6.0,88.12
+132,2023-09-14,Piso Cerâmico,Acabamento,20.0,
+133,2023-06-15,Furadeira,Ferramentas,5.0,337.63
+134,2023-12-11,Cimento CP-II,Estrutural,22.0,38.64
+135,2023-11-30,Trena,Ferramentas,4.0,47.48
+136,2023-02-16,Martelo,Ferramentas,4.0,37.18
+137,2023-06-18,Areia Ensacada,Estrutural,31.0,128.56
+138,2023-01-19,Trena,Ferramentas,4.0,22.64
+139,2023-09-21,Furadeira,Ferramentas,1.0,480.18
+140,2023-09-23,Tinta Acrílica,Acabamento,14.0,200.94
+141,2023-04-15,Cimento CP-II,Estrutural,22.0,38.24
+142,2023-03-04,Martelo,Ferramentas,1.0,59.06
+143,2023-06-09,Areia Ensacada,Estrutural,40.0,80.96
+144,2023-08-25,Tijolo Cerâmico,Estrutural,12.0,694.31
+145,2023-09-18,Piso Cerâmico,Acabamento,11.0,84.93
+146,2023-10-10,Martelo,Ferramentas,2.0,38.43
+147,2023-02-05,Areia Ensacada,Estrutural,22.0,134.09
+148,2023-05-17,Trena,Ferramentas,1.0,28.49
+149,2023-03-18,Martelo,Ferramentas,4.0,43.85
+150,2023-07-13,Trena,Ferramentas,4.0,47.99
+151,2023-10-20,Tinta Acrílica,Acabamento,15.0,
+152,2023-12-28,Martelo,Ferramentas,4.0,38.51
+153,2023-09-11,Areia Ensacada,Estrutural,7.0,88.84
+154,2023-08-14,Tijolo Cerâmico,Estrutural,11.0,657.79
+155,2023-12-02,Furadeira,Ferramentas,2.0,276.19
+156,2023-11-29,Furadeira,Ferramentas,1.0,548.12
+157,2023-06-12,Furadeira,Ferramentas,,555.33
+158,2023-04-27,Piso Cerâmico,Acabamento,5.0,86.04
+159,2023-08-16,Tijolo Cerâmico,Estrutural,15.0,
+160,2023-05-31,Cimento CP-II,Estrutural,27.0,35.62
+161,2023-03-29,Areia Ensacada,Estrutural,16.0,85.53
+162,2023-09-12,Tinta Acrílica,Acabamento,7.0,150.18
+163,2023-08-27,Cimento CP-II,Estrutural,23.0,40.16
+164,2023-10-28,Rejunte,Acabamento,12.0,30.97
+165,2023-04-12,Piso Cerâmico,Acabamento,15.0,111.2
+166,2023-10-22,Rejunte,Acabamento,12.0,39.82
+167,2023-05-21,Furadeira,Ferramentas,1.0,448.08
+168,2023-11-07,Cimento CP-II,Estrutural,36.0,42.49
+169,2023-11-07,Tinta Acrílica,Acabamento,14.0,148.47
+170,2023-11-18,Areia Ensacada,Estrutural,11.0,143.24
+171,2023-01-18,Martelo,Ferramentas,5.0,37.77
+172,2023-08-01,Rejunte,Acabamento,8.0,20.02
+173,2023-09-29,Rejunte,Acabamento,19.0,37.84
+174,2023-06-01,Martelo,Ferramentas,3.0,53.15
+175,2023-12-13,Tinta Acrílica,Acabamento,15.0,245.75
+176,2023-01-08,Furadeira,Ferramentas,3.0,437.8
+177,2023-10-27,Piso Cerâmico,Acabamento,15.0,109.35
+178,2023-08-30,Tinta Acrílica,Acabamento,3.0,200.54
+179,2023-11-28,Tinta Acrílica,Acabamento,5.0,202.6
+180,2023-03-01,Furadeira,Ferramentas,,265.87
+181,2023-02-19,Tijolo Cerâmico,Estrutural,20.0,766.18
+182,2023-08-03,Trena,Ferramentas,5.0,42.27
+183,2023-09-08,Tijolo Cerâmico,Estrutural,44.0,
+184,2023-04-22,Rejunte,Acabamento,17.0,26.12
+185,2023-10-06,Rejunte,Acabamento,14.0,16.51
+186,2023-02-16,Martelo,Ferramentas,2.0,
+187,2023-05-05,Rejunte,Acabamento,7.0,34.67
+188,2023-04-17,Trena,Ferramentas,5.0,26.48
+189,2023-11-02,Areia Ensacada,Estrutural,5.0,99.41
+190,2023-05-09,Trena,Ferramentas,2.0,23.3
+191,2023-05-02,Rejunte,Acabamento,13.0,15.39
+192,2023-09-27,Furadeira,Ferramentas,1.0,510.98
+193,2023-10-31,Trena,Ferramentas,1.0,33.56
+194,2023-06-04,Trena,Ferramentas,,39.3
+195,2023-08-07,Furadeira,Ferramentas,1.0,421.59
+196,2023-06-14,Tijolo Cerâmico,Estrutural,43.0,544.5
+197,2023-12-31,Trena,Ferramentas,3.0,31.43
+198,2023-11-06,Trena,Ferramentas,4.0,22.98
+199,2023-04-21,Trena,Ferramentas,4.0,33.55
+200,2023-07-24,Martelo,Ferramentas,4.0,50.54
